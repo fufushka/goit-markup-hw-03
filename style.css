@@ -129,6 +129,7 @@ span.footer-logo-span {
 .hero-section {
   background-color: var(--primary-color);
   padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .hero-title {
@@ -285,6 +286,7 @@ span.footer-logo-span {
   font-family: inherit;
   font-weight: inherit;
   letter-spacing: 0.04em;
+  border-radius: 4px;
 }
 .filters-item-btn:hover,
 .filters-item-btn:focus {
@@ -327,7 +329,6 @@ span.footer-logo-span {
   color: var(--secondary-color);
 }
 .footer {
-  padding-left: 156px;
   padding-top: 100px;
   padding-bottom: 100px;
   background-color: var(--primary-color);
